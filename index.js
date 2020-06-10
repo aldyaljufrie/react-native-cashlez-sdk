@@ -1,5 +1,5 @@
 import { NativeModules } from 'react-native';
 
-const { Cashlez } = NativeModules;
+const { RNCashlezSdk } = NativeModules;
 
-export default Cashlez;
+export default RNCashlezSdk;

@@ -1,18 +1,43 @@
-
 {
-  "name": "react-native-cashlez-sdk",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_args": [
+    [
+      "git+https://github.com/aldyaljufrie/react-native-cashlez-sdk.git",
+      "D:\\Workspace\\react-native\\CashlezDemo"
+    ]
+  ],
+  "_from": "git+https://github.com/aldyaljufrie/react-native-cashlez-sdk.git",
+  "_id": "react-native-cashlez-sdk@git+https://github.com/aldyaljufrie/react-native-cashlez-sdk.git#d974f6e3f7b7bf82303004f377605f52a2957f92",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-cashlez-sdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/aldyaljufrie/react-native-cashlez-sdk.git",
+    "rawSpec": "git+https://github.com/aldyaljufrie/react-native-cashlez-sdk.git",
+    "saveSpec": "git+https://github.com/aldyaljufrie/react-native-cashlez-sdk.git",
+    "fetchSpec": "https://github.com/aldyaljufrie/react-native-cashlez-sdk.git",
+    "gitCommittish": null
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/aldyaljufrie/react-native-cashlez-sdk.git#d974f6e3f7b7bf82303004f377605f52a2957f92",
+  "_spec": "git+https://github.com/aldyaljufrie/react-native-cashlez-sdk.git",
+  "_where": "D:\\Workspace\\react-native\\CashlezDemo",
+  "author": "",
+  "description": "`$ npm install react-native-cashlez-sdk --save`",
   "keywords": [
     "react-native"
   ],
-  "author": "",
   "license": "",
+  "main": "index.js",
+  "name": "react-native-cashlez-sdk",
   "peerDependencies": {
     "react-native": "^0.41.2"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
 }
