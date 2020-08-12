@@ -2,11 +2,11 @@
   "_args": [
     [
       "git+https://github.com/aldyaljufrie/react-native-cashlez-sdk.git",
-      "D:\\Workspace\\react-native\\CashlezDemo"
+      "D:\\Workspace\\react-native\\medivscreen"
     ]
   ],
   "_from": "git+https://github.com/aldyaljufrie/react-native-cashlez-sdk.git",
-  "_id": "react-native-cashlez-sdk@git+https://github.com/aldyaljufrie/react-native-cashlez-sdk.git#d974f6e3f7b7bf82303004f377605f52a2957f92",
+  "_id": "react-native-cashlez-sdk@git+https://github.com/aldyaljufrie/react-native-cashlez-sdk.git#17c73f30319a12df858d6fe8c75e1693474257c4",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/react-native-cashlez-sdk",
@@ -22,9 +22,9 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git+https://github.com/aldyaljufrie/react-native-cashlez-sdk.git#d974f6e3f7b7bf82303004f377605f52a2957f92",
+  "_resolved": "git+https://github.com/aldyaljufrie/react-native-cashlez-sdk.git#17c73f30319a12df858d6fe8c75e1693474257c4",
   "_spec": "git+https://github.com/aldyaljufrie/react-native-cashlez-sdk.git",
-  "_where": "D:\\Workspace\\react-native\\CashlezDemo",
+  "_where": "D:\\Workspace\\react-native\\medivscreen",
   "author": "",
   "description": "`$ npm install react-native-cashlez-sdk --save`",
   "keywords": [

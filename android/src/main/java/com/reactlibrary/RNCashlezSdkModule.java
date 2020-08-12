@@ -78,6 +78,8 @@ public class RNCashlezSdkModule extends ReactContextBaseJavaModule {
       ovoHandler = new OvoHandler(activity);
       ovoHandler.doStartOvoHandler();
       ovoHandler.doPayment(this.applicationState, phone, amount, desc, onSuccess, onFailed);
+
+      Log.v("doOvoPayment", "doOvoPayment " + phone + " " + amount + " " + desc);
     }
   }
 
